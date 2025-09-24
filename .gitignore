@@ -1,0 +1,26 @@
+# 编译生成的文件
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+
+# 可执行文件
+*.exe
+*.out
+*.app
+*.bin
+
+# 编译器/IDE 相关的文件夹和文件
+build/
+.vscode/
+.vs/
+*.sln
+cmake-build-debug/
+
+# macOS 相关
+.DS_Store
+
+# 其他日志或临时文件
+*.log
